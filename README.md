@@ -1,7 +1,7 @@
 ## Seja bem vindo(a) ao meu perfil!
 
 👨‍💻 - Cursando Análise e Desenvolvimento de Sistemas (4°período);<br>
-📚 - ;
+📚 - Development;
 
 
 <div align="center">

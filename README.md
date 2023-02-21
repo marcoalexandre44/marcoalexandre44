@@ -1,8 +1,10 @@
 ## Seja bem vindo(a) ao meu perfil!
 
-Cursando o 5° semestre em Análise e Desenvolvimento de Sistemas no Centro Universitário Faculdade Guanambi - UNIFG.<br>
-Conhecimento em Pacote Office, montagem de hardware e instalação de softwares.<br>
-Familiaridade com as tecnologias Css, Html, JavaScript, React e Figma.<br>
+Cursando o 5° semestre em Análise e Desenvolvimento de Sistemas no Centro Universitário Faculdade Guanambi - UNIFG.
+<br>
+Conhecimento em Pacote Office, montagem de hardware e instalação de softwares.
+<br>
+Familiaridade com as tecnologias Css, Html, JavaScript, React e Figma.
 
 
 <div align="center">
@@ -11,20 +13,12 @@ Familiaridade com as tecnologias Css, Html, JavaScript, React e Figma.<br>
   
 </div>
 <div style="display: inline_block"><br>
-    
-  <h3>Linguagens:<h3>
-  
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <!--
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    -->
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <!--
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    -->
+    <h3>Linguagens:<h3>
+    <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Marco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Marco-FIGMA" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </div>
   
   ##

@@ -1,10 +1,10 @@
 ## Seja bem vindo(a) ao meu perfil!
 
-Cursando o 5° semestre em Análise e Desenvolvimento de Sistemas no Centro Universitário Faculdade Guanambi - UNIFG.
+Graduado em Análise e Desenvolvimento de Sistemas.
 <br>
-Conhecimento em Pacote Office, montagem de hardware e instalação de softwares.
+Conhecimento em Pacote Office.
 <br>
-Familiaridade com as tecnologias Css, Html, JavaScript, React e Figma.
+Familiaridade com as tecnologias Css, Html, JavaScript, React, Figma e PowerBI.
 
 
 <div align="center">
